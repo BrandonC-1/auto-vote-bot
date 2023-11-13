@@ -14,6 +14,7 @@ Le module Selenium sert à automatiser les clics et remplissages utilisateur, et
 # A noter
 
 _qty_votes_ détermine le nombre de votes à effectuer (défaut = 10).
+
 Le programme fonctionnement parfaitement avec les notebooks jupyter de la distribution Anaconda : https://www.anaconda.com/download
 
 
