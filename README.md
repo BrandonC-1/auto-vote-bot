@@ -4,6 +4,7 @@ https://groupemarieclaire.qualifioapp.com/20/E614CF04-A50C-4CD5-AE3C-C4C2F07D21C
 
 # Fonctionnement
 Le programme génère des fausses coordonnées grâce au module Faker :
+
   -Nom, Prénom
   
   -Adresse, CP, Ville
