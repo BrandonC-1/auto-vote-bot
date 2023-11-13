@@ -11,9 +11,9 @@ Le programme génère des fausses coordonnées grâce au module Faker :
 
 Le module Selenium sert à automatiser les clics et remplissages utilisateur, et ChromeDriverManager à interagir avec le navigateur Google Chrome via Selenium.
 
-# Recommendations
+# A noter
 
-Modifier la variable _qty_votes_ qui détermine le nombre de votants.
+_qty_votes_ détermine le nombre de votes à effectuer (défaut = 10).
 Le programme fonctionnement parfaitement avec les notebooks jupyter de la distribution Anaconda : https://www.anaconda.com/download
 
 
