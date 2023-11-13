@@ -5,13 +5,13 @@ https://groupemarieclaire.qualifioapp.com/20/E614CF04-A50C-4CD5-AE3C-C4C2F07D21C
 # Fonctionnement
 Le programme génère des fausses coordonnées grâce au module Faker :
 
-  -Nom, Prénom
+  - Nom, Prénom
   
-  -Adresse, CP, Ville
+  - Adresse, CP, Ville
   
-  -Email
+  - Email
   
-  -Numéro de téléphone
+  - Numéro de téléphone
 
 Le module Selenium sert à automatiser les clics et remplissages utilisateur, et ChromeDriverManager à interagir avec le navigateur Google Chrome via Selenium.
 
